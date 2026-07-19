@@ -1,5 +1,5 @@
 # Machine learning 2026
-##project overview
+## project overview
 This repository contains laboratory work for the machine learning course.
 This semester-long dataset used in the Olist Brazilian E-commerce Public Dataset
 ## Objectives
